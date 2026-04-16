@@ -1,0 +1,5 @@
+Spanish,1,18
+Spanish,2,5
+Spanish,3,0
+French,1,20
+French,2,4
